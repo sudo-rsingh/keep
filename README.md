@@ -19,7 +19,7 @@ A lightweight, keyboard-driven task manager for the terminal, built with Rust.
 ### From Source
 
 ```bash
-git clone https://github.com/yourusername/keep.git
+git clone https://github.com/sudo-rsingh/keep.git
 cd keep
 cargo build --release
 ```
