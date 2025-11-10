@@ -5,6 +5,8 @@ A lightweight, keyboard-driven task manager for the terminal, built with Rust.
 ![Keep Task Manager](https://img.shields.io/badge/rust-1.70%2B-orange.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
+<img width="1345" height="591" alt="Screenshot_20251110_160358" src="https://github.com/user-attachments/assets/585d6478-e628-468f-b00c-c2235c5b390d" />
+
 ## Features
 
 - **📅 Daily Task Scheduling** - Organize tasks by date with start and end times
