@@ -1,0 +1,17 @@
+# Rust build artifacts
+/target
+Cargo.lock
+
+# User data files
+.keep_tasks.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
